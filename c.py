@@ -5,3 +5,4 @@ x=y
 y=t
 print(x)
 print(y)
+print(z)
